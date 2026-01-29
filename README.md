@@ -23,7 +23,7 @@ These events are sent via GitHub Webhooks to a Flask-based webhook receiver.
 ## Backend Implementation
 All backend webhook handling, MongoDB storage, and UI logic are implemented in the following repository:
 
-👉 bhttps://github.com/noobshubham/webhook-repo-nb/tree/setup
+👉 https://github.com/noobshubham/webhook-repo-nb/tree/setup
 
 ## Notes
 This repository does not contain backend logic.  
