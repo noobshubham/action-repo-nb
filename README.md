@@ -29,5 +29,5 @@ All backend webhook handling, MongoDB storage, and UI logic are implemented in t
 This repository does not contain backend logic.  
 It exists only to emit GitHub events for integration testing.
 
-# Screenshot
+## Screenshot
 <img width="1889" height="650" alt="image" src="https://github.com/user-attachments/assets/ee84be7d-3fc4-44f7-ac34-e699052cf78d" />
